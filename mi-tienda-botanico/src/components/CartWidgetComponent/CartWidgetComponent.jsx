@@ -10,13 +10,12 @@ const CartWidgetComponent = () => {
     const numStyles = {
         fontSize: '20px',
         color: 'rgb(19, 169, 19)',
-        fontWeight: '500'        
-    }
-
+        fontWeight: '500',
+    }        
     return (
         <div>
             <FontAwesomeIcon style={iconStyles} icon={faCartShopping} />
-            <span style={numStyles} >10</span>
+            <span style={numStyles} >5</span>
         </div>
     )
 }

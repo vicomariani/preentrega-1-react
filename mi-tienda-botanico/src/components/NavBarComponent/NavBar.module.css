@@ -1,0 +1,15 @@
+.logo {
+    width: 120px;
+    height: 100px;
+}
+.navegador {
+    background-image: linear-gradient(to left, white, rgb(19, 169, 19), white);
+}
+.boton {
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+}
+.categorias {
+    color: rgb(19, 169, 19);
+}
